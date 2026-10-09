@@ -1,0 +1,18 @@
+# GUI
+PyQt5>=5.15
+# Email parsing
+extract-msg>=0.48
+python-magic-bin>=0.4.14; sys_platform != "linux"   # Windows/macOS bundle libmagic
+python-magic>=0.4.27; sys_platform == "linux"        # needs system libmagic1 (apt install libmagic1)
+# Network & APIs
+requests>=2.31
+urllib3>=2.0
+dnspython>=2.4
+python-whois>=0.9
+# Text & string analysis
+tldextract>=5.1,<6
+beautifulsoup4>=4.12
+regex>=2023.10
+jellyfish>=1.0
+# Reporting
+jinja2>=3.1

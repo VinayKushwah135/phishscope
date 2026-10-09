@@ -1,0 +1,58 @@
+From: "PayPal Security" <service@paypa1-secure.top>
+To: victim@example.org
+Reply-To: collect@mailbox-drop.xyz
+Return-Path: <bounce@bulk-sender.tk>
+Subject: URGENT: Your account has been suspended - immediate action required
+Date: Tue, 29 Sep 2026 10:15:00 +0000
+Message-ID: <abc123@paypa1-secure.top>
+Received: from mx.example.org (mx.example.org [10.0.0.5]) by inbox.example.org
+ with LMTP; Tue, 29 Sep 2026 10:15:07 +0000
+Received: from mail.paypa1-secure.top (mail.paypa1-secure.top [45.33.32.156])
+ by mx.example.org with ESMTP; Tue, 29 Sep 2026 10:15:05 +0000
+Authentication-Results: mx.example.org; spf=fail smtp.mailfrom=bulk-sender.tk;
+ dkim=none; dmarc=fail header.from=paypa1-secure.top
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1226724343114297654=="
+
+--===============1226724343114297654==
+Content-Type: multipart/alternative;
+ boundary="===============8282951815651101277=="
+
+--===============8282951815651101277==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account has been suspended. Verify your account now: https://paypa1-secu=
+re.top/login
+
+--===============8282951815651101277==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Dear customer, <a href=3D"https://evil-login.tk/steal">https://www.paypal.=
+com/verify</a></p><div style=3D"display:none"><a href=3D"http://198.51.100.9/=
+track">x</a></div>
+
+--===============8282951815651101277==--
+
+--===============1226724343114297654==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Invoice_9931.pdf.exe"
+MIME-Version: 1.0
+
+TVqQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQ
+AJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAA
+kACQAJAAkACQAJAAkACQAA==
+
+--===============1226724343114297654==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+MIME-Version: 1.0
+
+TVoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAA
+
+--===============1226724343114297654==--

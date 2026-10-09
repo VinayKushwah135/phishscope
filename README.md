@@ -19,7 +19,7 @@ APIs and produces an explainable 0–100 risk score and an analyst report.
 
 ## Quick start
 ```bash
-git clone https://github.com/<your-user>/phishscope.git
+git clone https://github.com/VinayKushwah135/phishscope.git
 cd phishscope
 python -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate

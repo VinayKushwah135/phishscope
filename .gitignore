@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
+# never commit API keys, real emails or reports
+.env
+*.key
+secrets*
+real_samples/
+phishscope_*.json
+phishscope_*.html
+phishscope_*.pdf
